@@ -1,0 +1,20 @@
+*{
+  box-sizing: border-box;
+  --main-green: #0ACF83;
+}
+  
+body {
+  font-family: 'DM Sans';
+}
+
+a{
+  text-decoration: none;
+}
+
+a:visited{
+  text-decoration: none;
+}
+
+ion-icon{
+  color: black;
+}
